@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23778081505",
+    "project_id": "lab08-amst-b14e5",
+    "storage_bucket": "lab08-amst-b14e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23778081505:android:338e6a460e3291c013d5a0",
+        "android_client_info": {
+          "package_name": "com.example.comamstgrupo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23778081505-gvf7vgqn9mfclt05kpc5v7kn1imk2crh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBucdIo0xh4DFiR25q5I0Zee2YIFvjHEPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23778081505-gvf7vgqn9mfclt05kpc5v7kn1imk2crh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
