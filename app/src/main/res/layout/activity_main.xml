@@ -22,4 +22,18 @@
         android:onClick="abrirVistaRegistros"
         android:text="Bar Chart" />
 
+    <Button
+        android:id="@+id/buttonPOSTP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Agregar Registro"
+        android:onClick="abrirMetodoPOST"/>
+
+    <Button
+        android:id="@+id/buttonDELETEP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Eliminar Registro"
+        android:onClick="abrirMetodoDELETE"/>
+
 </LinearLayout>

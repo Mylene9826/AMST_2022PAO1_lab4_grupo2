@@ -78,6 +78,9 @@ public class Registros extends AppCompatActivity {
         );
         ListaRequest.add(requestRegistros);
     }
+    public void agregarTemperatura(){
+
+    }
 
     private void mostrarTemperaturas(JSONArray temperaturas){
         String registroId;

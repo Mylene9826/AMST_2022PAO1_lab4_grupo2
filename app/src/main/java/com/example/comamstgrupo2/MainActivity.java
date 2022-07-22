@@ -13,6 +13,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+    public void abrirMetodoPOST(View view){
+        Intent intent = new Intent(this,MetodoPOSTDesafio.class);
+        startActivity(intent);
+    }
+
+    public void abrirMetodoDELETE(View view){
+        Intent intent = new Intent(this,MetodoDELETEDesafio.class);
+        startActivity(intent);
+    }
 
     public void abrirVistaRegistros(View view) {
         Intent intent = new Intent(this, Registros.class);
